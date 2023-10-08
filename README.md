@@ -1,4 +1,4 @@
-Superstore Sales Insights :
+# Superstore Sales Insights :
 
 📈 Total Quantity : (38K)
 📈 Total Sales: (2.30M)
